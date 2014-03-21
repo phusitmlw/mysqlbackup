@@ -1,4 +1,6 @@
 :: ============== MySQL backup ==============================
+:: V3.2 2014/03/14 - by PM
+:: ให้แยกการ dump ลงไฟล์ ถ้าไม่ได้ใส่ time stamp
 :: V3.1 Bata - 2013/11/21 - by PM
 :: ใส่ timestamp folder ก่อนแยก databases
 :: เปลี่ยน setfolder เป็น multiFile
